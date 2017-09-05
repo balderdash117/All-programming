@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bootstrap", "bootstrap\Bootstrap.vcxproj", "{AF59BB0B-E059-4773-83DC-728A949647DA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra", "Dijkstra Projects\Dijkstra\Dijkstra.vcxproj", "{300262BD-94C8-4250-95E9-9AD97D097732}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grid", "Dijkstra Project II\Grid\Grid.vcxproj", "{63F80D66-4241-4B6F-8AC6-BEDB3647EBE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 - Introduction", "Introduction Agents\Introduction.vcxproj", "{C4BFEE47-541A-4E4D-8AAB-1B7C849A5A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF59BB0B-E059-4773-83DC-728A949647DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF59BB0B-E059-4773-83DC-728A949647DA}.Debug|x86.Build.0 = Debug|Win32
+		{AF59BB0B-E059-4773-83DC-728A949647DA}.Release|x86.ActiveCfg = Release|Win32
+		{AF59BB0B-E059-4773-83DC-728A949647DA}.Release|x86.Build.0 = Release|Win32
+		{300262BD-94C8-4250-95E9-9AD97D097732}.Debug|x86.ActiveCfg = Debug|Win32
+		{300262BD-94C8-4250-95E9-9AD97D097732}.Debug|x86.Build.0 = Debug|Win32
+		{300262BD-94C8-4250-95E9-9AD97D097732}.Release|x86.ActiveCfg = Release|Win32
+		{300262BD-94C8-4250-95E9-9AD97D097732}.Release|x86.Build.0 = Release|Win32
+		{63F80D66-4241-4B6F-8AC6-BEDB3647EBE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{63F80D66-4241-4B6F-8AC6-BEDB3647EBE9}.Debug|x86.Build.0 = Debug|Win32
+		{63F80D66-4241-4B6F-8AC6-BEDB3647EBE9}.Release|x86.ActiveCfg = Release|Win32
+		{63F80D66-4241-4B6F-8AC6-BEDB3647EBE9}.Release|x86.Build.0 = Release|Win32
+		{C4BFEE47-541A-4E4D-8AAB-1B7C849A5A20}.Debug|x86.ActiveCfg = Debug|Win32
+		{C4BFEE47-541A-4E4D-8AAB-1B7C849A5A20}.Debug|x86.Build.0 = Debug|Win32
+		{C4BFEE47-541A-4E4D-8AAB-1B7C849A5A20}.Release|x86.ActiveCfg = Release|Win32
+		{C4BFEE47-541A-4E4D-8AAB-1B7C849A5A20}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

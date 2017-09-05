@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakesAndLadders", "SnakesAndLadders\SnakesAndLadders.csproj", "{CFF3B4EB-925D-41CC-8B59-7F9927B47ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF3B4EB-925D-41CC-8B59-7F9927B47ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF3B4EB-925D-41CC-8B59-7F9927B47ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF3B4EB-925D-41CC-8B59-7F9927B47ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF3B4EB-925D-41CC-8B59-7F9927B47ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

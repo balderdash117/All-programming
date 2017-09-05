@@ -1,0 +1,102 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.134 seconds
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.815755 ms
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c90 -> priority: 1 
+  Thread -> id: 1280 -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 0.867435 ms
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\all metal usb data\AIE\Proramming\tank_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\all metal usb data\AIE\Proramming\tank_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2cc0 -> priority: 1 
+  Thread -> id: 2cc4 -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 0.837989 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d18 -> priority: 1 
+  Thread -> id: 2d1c -> priority: 1 
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
